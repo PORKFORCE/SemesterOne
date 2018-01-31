@@ -1,0 +1,8 @@
+
+Employee List 
+Name: asds adsad 
+PPS Number: 12e13 
+10% Commission: 1231321.3
+TOTAL (sales + commission) : €1.35445343E7
+
+TOTAL TOTAL SALES OF EVERYONE: €1.2313213E7
